@@ -1,0 +1,3 @@
+https://youtu.be/eMLEFmkzpP0
+
+This video shows how to obtain an analytical model of the SEPIC converter operating in continuous conduction mode (CCM). We follow the same methodology presented in previous videos for resonant converters and for the buck converter. The obtained analytical model of the SEPIC converter is simulated in Qspice together with the full converter model that uses switch and diode. The accuracy of the analytical model is thus demonstrated. The analytical model can later be used to derive the analytical averaged model and the small-signal model as we have done for other converters.
